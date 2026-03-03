@@ -97,7 +97,7 @@ cd DataScience_Salaries_2025
 
 2. Instalar dependencias:
 ```bash
-pip install pandas plotly seaborn kaleido
+pip install -r requirements.txt
 ```
 
 3. Abrir el notebook
