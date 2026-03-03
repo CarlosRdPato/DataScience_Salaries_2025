@@ -1,6 +1,6 @@
 # Análisis Salarial en Ofertas de Empleo
 
-Este proyecto analiza los salarios en diferentes puestos de trabajo según **nivel de experiencia**, **modalidad de empleo** y **tamaño de empresa**, usando el dataset `DataScience_Salaries_2025.csv`.  
+Este proyecto analiza los salarios en diferentes puestos de trabajo según **nivel de experiencia**, **modalidad de empleo** y **tamaño de empresa**, usando el dataset `DataScience_Salaries_2025.csv` de Kaggle.  
 
 El objetivo es extraer insights sobre tendencias salariales, demanda de modalidad remota/presencial y diferencias según experiencia y tamaño de empresa.
 
