@@ -91,7 +91,7 @@ Sigue estos pasos para ejecutar el análisis de salarios y ver todos los gráfic
 
 1. Clonar el repositorio:  
 ```bash
-git clone https://github.com/Carlos_RdPato/DataScience_Salaries_2025.git
+git clone [https://github.com/Carlos_RdPato/DataScience_Salaries_2025.git](https://github.com/CarlosRdPato/DataScience_Salaries_2025.git)
 cd DataScience_Salaries_2025
 ```
 
