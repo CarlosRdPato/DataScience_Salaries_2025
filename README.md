@@ -102,7 +102,7 @@ pip install -r requirements.txt
 
 3. Abrir el notebook
 ```bash
-jupyter notebook Analisis_Salarios_Ofertas_Empleo.ipynb
+jupyter lab Analisis_Salarios_Ofertas_Empleo.ipynb
 ```
 
 4. Ejecutar todas las celdas del notebook para generar gráficos y análisis
