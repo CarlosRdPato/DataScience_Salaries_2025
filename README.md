@@ -8,7 +8,7 @@ El objetivo es extraer insights sobre tendencias salariales, demanda de modalida
 
 ## Tecnologías utilizadas
 - Python
-- pandas
+- Pandas
 - Plotly
 - Jupyter Notebook
 
